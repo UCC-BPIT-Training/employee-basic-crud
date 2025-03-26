@@ -4,6 +4,18 @@
 
 Build a basic HR-style REST API using Node.js and Express to manage employee records. Store data in a simple array for now.
 
+## Installation
+
+```sh
+npm install
+```
+
+## Run the server
+
+```sh
+npm run dev
+```
+
 ## Requirements
 
 ### Sample Employee Data
